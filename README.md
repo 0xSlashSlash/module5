@@ -1,12 +1,18 @@
 # module5
 
-Calculate and Plot the Housing Units per Year
+Part 1: Create a Financial Planner for Emergencies
 
-Calculate and Plot the Average Sale Prices per Square Foot
+Evaluate the Cryptocurrency Wallet by Using the Requests Library
 
-Compare the Average Sale Prices by Neighborhood
+Evaluate the Stock and Bond Holdings by Using the Alpaca SDK
 
-Build an Interactive Neighborhood Map
+Evaluate the Emergency Fund
 
-Compose Your Data Story
+Part 2: Create a Financial Planner for Retirement
+
+Create the Monte Carlo Simulation
+
+Analyze the Retirement Portfolio Forecasts
+
+Forecast Cumulative Returns in 10 Years
 
